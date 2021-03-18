@@ -748,6 +748,12 @@ a:hover.tp-button.lightgrey {
 	font-weight: 400;
 	font-style: normal;
 }
+@font-face {
+	font-family: 'Avenir';
+	src: url(/content/hairdresser/css/fonts/Avenir-Next.ttc);
+	font-weight: 400;
+	font-style: normal;
+}
 /* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
 
 /* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
@@ -4271,7 +4277,7 @@ body.table-hover:not(.woocommerce-page) table tr:hover td {
 	display: block;
 	left: 50px;
 	top: 50%;
-	color: #6C6C6C;
+	color: #b50a17;
 	margin-top: -23px;
 	position: absolute;
 	z-index: 1;
@@ -19491,7 +19497,7 @@ code p, pre p {
 .offer a.slider_prev{left:50px;top:50%;z-index:2;margin-top:-69px;border-radius:5px 5px 0 0;-moz-border-radius:5px 5px 0 0;-webkit-border-radius:5px 5px 0 0}
 .offer a.slider_next{left:50px;top:50%;z-index:2;margin-top:23px;border-radius:0 0 5px 5px;-moz-border-radius:0 0 5px 5px;-webkit-border-radius:0 0 5px 5px}
 
-.offer .slider_pagination{opacity:0;left:50px;top:50%;color:#6C6C6C;margin-top:-23px;position:absolute;z-index:1;width:46px;height:46px;line-height:46px;text-align:center;font-size:13px;background:#1c1c1c}
+.offer .slider_pagination{opacity:0;left:50px;top:50%;color:#b50a17;margin-top:-23px;position:absolute;z-index:1;width:46px;height:46px;line-height:46px;text-align:center;font-size:13px;background:#1c1c1c}
 .offer .slider_pagination.show{opacity:1}
 .offer .slider_pagination .current,.offer .slider_pagination .count{color:#fff}
 
