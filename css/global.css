@@ -511,6 +511,9 @@ a.button_large .button_icon {
 }
 /* Hover */
 
+#azulcorte{
+	padding: 0 0 300px 0;
+}
 @media only screen and (max-width: 458px) {
 
   #linearojawrap{
@@ -521,6 +524,9 @@ a.button_large .button_icon {
   }
 	#linea2{
 		display: none;
+	}
+	#azulcorte{
+		padding: 0 0 500px 0;
 	}
 }
 
