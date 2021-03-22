@@ -1,0 +1,9 @@
+@media only screen and (max-width: 458px) {
+
+  linearojawrap{
+    margin-bottom: 200px;
+  }
+  linearoja{
+    display: none;
+  }
+}

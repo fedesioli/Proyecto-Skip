@@ -1284,7 +1284,7 @@ a.mfn-link-6:before {
 	color: #d78985;
 }
 .highlight-left:after, .highlight-right:after {
-	background: #ffffff;
+	background: #002855;
 }
 @media only screen and (max-width: 767px) {
 	.highlight-left .wrap:first-child, .highlight-right .wrap:last-child {

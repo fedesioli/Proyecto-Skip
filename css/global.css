@@ -511,6 +511,19 @@ a.button_large .button_icon {
 }
 /* Hover */
 
+@media only screen and (max-width: 458px) {
+
+  #linearojawrap{
+    margin-bottom: 200px;
+  }
+  #linearoja{
+    display: none;
+  }
+	#linea2{
+		display: none;
+	}
+}
+
 @media only screen and (min-width: 768px) {
 	a.button:after, a.tp-button:after, button:after, input[type="submit"]:after, input[type="reset"]:after, input[type="button"]:after {
 		content: "";
@@ -2985,7 +2998,7 @@ ol {
 	list-style: decimal
 }
 .column_column ul, .column_column ol, .column_helper ul, .column_helper ol, .column_visual ul, .column_visual ol, .mfn-acc ul, .mfn-acc ol, .ui-tabs-panel ul, .ui-tabs-panel ol, .the_content_wrapper ul, .the_content_wrapper ol, .post-excerpt ul, .post-excerpt ol {
-	margin: 0 0 15px 30px
+	margin: 0 0 15px 0px
 }
 .column_column ul li, .column_helper ul li, .column_visual ul li, .mfn-acc ul li, .ui-tabs-panel ul li, .the_content_wrapper ul li, .post-excerpt ul li {
 	list-style: disc outside
