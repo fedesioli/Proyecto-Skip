@@ -514,6 +514,16 @@ a.button_large .button_icon {
 #azulcorte{
 	padding: 0 0 300px 0;
 }
+#slidermobile{
+	display: none;
+}
+#titulomobile{
+	display: none;
+}
+#disruptivo{
+	padding-top: 200px;
+	padding-bottom: 100px;
+}
 @media only screen and (max-width: 458px) {
 
   #linearojawrap{
@@ -527,6 +537,19 @@ a.button_large .button_icon {
 	}
 	#azulcorte{
 		padding: 0 0 500px 0;
+	}
+	#sliderweb{
+		display: none;
+	}
+	#slidermobile{
+		display: inline;
+	}
+	#titulomobile{
+		display: inline;
+	}
+	#disruptivo{
+		padding-top: 20px;
+		padding-bottom: 10px;
 	}
 }
 
@@ -6834,6 +6857,7 @@ ul.clients li .client_wrapper, ul.clients li .client_wrapper img {
 }
 .portfolio_slider .slider_nav {
 	color: #fff;
+	background-color: #b50a17;
 	display: none;
 	font-size: 15px;
 	height: 80px;
