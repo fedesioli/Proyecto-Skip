@@ -556,10 +556,16 @@ a.button_large .button_icon {
 		padding-top: 20px;
 		padding-bottom: 10px;
 	}
-	
-#sustentable{
-	padding-bottom: 0px;
-}
+		
+	#sustentable{
+		padding-bottom: 0px;
+	}
+	#espacio{
+		display: none;
+	}
+	#espacio2{
+		display: none;
+	}
 }
 
 @media only screen and (min-width: 768px) {
