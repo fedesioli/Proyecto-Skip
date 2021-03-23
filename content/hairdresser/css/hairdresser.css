@@ -2284,7 +2284,7 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 /* sections */
 
 .parallax-video .content_video iframe {
-	border: 35px solid #efefef;
+
 	-webkit-border-radius: 5px 5px 5px 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px 5px 5px 5px;
